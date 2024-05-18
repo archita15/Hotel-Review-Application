@@ -1,1 +1,1 @@
-# Restaurant-Review-Application
+# Hotel-Review-Application
